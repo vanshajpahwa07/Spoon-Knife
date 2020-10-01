@@ -1,9 +1,9 @@
 * {
-  margin:0px;
-  padding:0px;
+  margin:2px;
+  padding:2px;
 }
 
-#octocat {
+#pigasoos {
   display: block;
   width:384px;
   margin: 50px auto;
@@ -14,4 +14,5 @@ p {
   width: 400px;
   margin: 50px auto;
   font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  color: red;
 }
